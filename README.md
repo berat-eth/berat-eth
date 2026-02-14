@@ -1,4 +1,4 @@
-# <p align="center">⚡ BERAT.ETH ⚡</p>
+# <p align="center">⚡ BERAT ⚡</p>
 ### <p align="center">CTO | System Architect | AI & Web3 Infrastructure Engineer</p>
 
 <p align="center">
