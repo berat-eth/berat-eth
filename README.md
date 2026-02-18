@@ -1,5 +1,5 @@
 # <p align="center">⚡ BERAT ⚡</p>
-### <p align="center">CTO | System Architect | AI & Web3 Infrastructure Engineer</p>
+### <p align="center">System Architect | AI & Web3 Infrastructure Engineer</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Building+Scalable+AI-Powered+Systems;Architecting+Web3+Infrastructure;High-Performance+Backend+Engineering;Full+Stack+%7C+CTO+Mindset+%7C+Product+Vision" />
